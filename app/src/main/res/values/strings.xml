@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Car controller</string>
+    <string name="enable_bluetooth">Enable bluetooth</string>
+    <string name="stop_all_actions">Stop all actions</string>
+    <string name="turn_label">turn: %d</string>
+    <string name="gas_label">gas: %d</string>
+    <string name="gas_max">gas max</string>
+</resources>
